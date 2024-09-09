@@ -1,0 +1,8 @@
+my study test for python
+
+nt1 = int(input('diga o valor da sua primeira nota:'))
+nt2 = int(input('Diga o valor da sua segunda nota:'))
+media = (nt1 + nt2) / 2
+print('a sua media de nota foi', media)
+
+it takes two values, respectively from a test grade and calculates their arithmetric mean
